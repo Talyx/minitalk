@@ -5,4 +5,6 @@ A new client connection does not require a server restart.
 The client is started like this ./client [serv_pid] [msg]
 
 use the following command to clone along with the library:
-``` git clone https://github.com/Talyx/minitalk --recurse-submodules```
+```
+git clone https://github.com/Talyx/minitalk --recurse-submodules
+```
